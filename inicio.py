@@ -18,3 +18,4 @@ def informacion():
 @app.route("/contacto")
 def contacto():
     return render_template("contacto.html")
+
